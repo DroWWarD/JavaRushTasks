@@ -14876,3 +14876,46 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 2022-10-07 21:59:01 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
 2022-10-07 21:59:01 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
 2022-10-07 21:59:01 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-10-07 22:30:09 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-07 22:30:10 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-07 22:30:13 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-10-07 22:30:13 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/JAVA/1/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task36/task3604
+2022-10-07 22:48:30 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-10-07 22:48:31 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-07 22:48:31 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-07 22:48:32 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-10-09 15:33:15 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-10-09 15:33:15 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.60 ----------
+
+2022-10-09 15:33:15 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-10-09 15:33:16 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-10-09 15:33:16 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-10-09 15:33:16 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-10-10 12:03:41 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-10-10 12:03:41 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.60 ----------
+
+2022-10-10 12:03:41 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-10-10 12:03:41 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-10-10 12:03:41 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-10-10 12:03:41 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-10-10 12:23:32 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-10 12:23:33 INFO  ApacheHttpClient.resetTask(324) - responseCode = 200
+2022-10-10 12:23:33 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-10 12:23:34 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-10-10 12:59:23 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-10 12:59:24 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-10 13:08:23 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-10 13:08:24 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-10 13:54:12 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-10 13:54:12 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-10 13:54:14 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-10-10 13:54:56 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-10 13:54:56 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-10 13:54:58 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-10-10 13:55:21 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-10 13:55:21 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-10 13:56:08 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-10 13:56:08 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-10 13:56:11 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-10-10 13:56:11 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
